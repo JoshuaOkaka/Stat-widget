@@ -9,3 +9,6 @@
 ### Desktop view.
 
 ![project screenshot](https://github.com/JoshuaOkaka/Stat-widget/blob/main/desktop-normal-state.png)
+
+### Mobile view 
+![project screenshot ](https://github.com/JoshuaOkaka/Stat-widget/blob/main/mobile-normal-state.png)
