@@ -6,6 +6,6 @@
 
 # Using Tailwindcss
 
-### mobile view.
+### Desktop view.
 
-![project screenshot]()
+![project screenshot](https://github.com/JoshuaOkaka/Stat-widget/blob/main/desktop-normal-state.png)
